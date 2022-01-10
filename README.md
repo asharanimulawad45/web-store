@@ -1,2 +1,2 @@
 # web-store
-sample
+the simple store built using the MERN.
